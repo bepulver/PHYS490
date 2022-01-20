@@ -1,0 +1,11 @@
+2V10T
+Advantage_system4.1
+Dij Term used: True
+1/Dij Term used: False
+knob k: 5
+Normalized by: Nothing
+Run Mode: QPU
+Reads: 100
+Squeezing: True
+Lambda: 3.09171803466586, input constant
+Knob Problem Scale: 1.5

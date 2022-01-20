@@ -1,0 +1,8 @@
+2V10T
+Advantage_system4.1
+knob k: 5
+Run Mode: CPU
+Reads: 100, Sweeps: 2000
+Lambda: 8
+Normalized by: 1
+Knob Problem Scale: 1.5

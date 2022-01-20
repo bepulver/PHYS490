@@ -1,0 +1,9 @@
+2V10T
+Advantage_system4.1
+1/Dij Term used: True
+knob k: 5
+Run Mode: CPU
+Reads: 100, Sweeps: 2000
+Lambda: 17
+Normalized by: 1 #Wrong This was normalized by a wrong lambda
+Knob Problem Scale: 1.5

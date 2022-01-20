@@ -1,0 +1,9 @@
+2V10T
+Advantage_system4.1
+1/Dij Term used: True
+knob k: 5
+Normalized by: Lambda
+Run Mode: CPU
+Reads: 100, Sweeps: 2000
+Lambda: 17
+Knob Problem Scale: 1.5
